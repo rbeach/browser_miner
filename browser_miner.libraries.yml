@@ -1,0 +1,4 @@
+browserMiner:
+  version: 1.x
+  js:
+      js/browser_miner.js: {}

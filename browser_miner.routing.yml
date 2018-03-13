@@ -1,0 +1,7 @@
+browser_miner.form:
+  path: '/browser_miner_form'
+  defaults:
+    _form: 'Drupal\browser_miner\Form\BrowserMinerModalForm'
+    _title: 'We are an Ad-free Site'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,7 @@
+name : 'Browser Miner'
+description : 'Provides opt-in browser mining javascript that allows users to use their extra processing power to mine cryptocurrencies.'
+# core: 8.x
+type: module
+version: '8.x-1.0'
+core: '8.x'
+project: 'Browser Miner'
